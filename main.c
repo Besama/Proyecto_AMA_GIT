@@ -5,7 +5,7 @@ void mostrarMensaje()
 {
 	printf("Arranca...."); //comentario
 }
-
+//dadasdadad
 void main()
 {
 	mostrarMensaje();
