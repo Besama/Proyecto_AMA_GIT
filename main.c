@@ -1,5 +1,13 @@
 #include <stdio.h>
+//esto es una prueba
+
+void mostrarMensaje()
+{
+	printf("Arranca...."); //comentario
+}
+
 void main()
 {
-	printf("Hola Mundo");
+	mostrarMensaje();
+        printf("Hola Mundo"); //comentario
 }
